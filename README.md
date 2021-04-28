@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ZhenghaoJi/ZhenghaoJi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I am Zhenghao Ji(吉政豪).
+🔭 I’m currently studying at Fudan University, Shanghai, China.
+
+🌱 I’m currently learning computer vision, deep learning.
+
+👯 I’m going to have a internship in Megvii Research Lab Shanghai this summer.
+
+⚡ Interests in Edge Detection and Semantic tasks. 
+
+
+📫 How to reach me: ZhenghaoJi0828@gmail.com
