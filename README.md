@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ⚡ Interests in Edge Detection and Semantic tasks. 
 
 
-📫 How to reach me: ZhenghaoJi0828@gmail.com
+📫 How to reach me: zhenghaoji828@gmail.com
