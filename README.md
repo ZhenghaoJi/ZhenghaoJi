@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning computer vision, deep learning.
 
-👯 I’m going to have a internship in Megvii Research Lab Shanghai this summer.
+👯 I’m going to have an internship in Megvii Research Lab Shanghai this summer.
 
 ⚡ Interests in Edge Detection and Semantic tasks. 
 
