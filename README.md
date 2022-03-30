@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👯 ~~I’m going to have an internship in Megvii Research Lab Shanghai this summer@2021Summer.~~
 
-👯 I’m happy to join Sensetime as Large Model R&D Engineer in basemodel group of Sensetime Reseach Lab@2020 Spring.
+👯 I’m happy to join Sensetime as Large Model R&D Engineer in basemodel group of Sensetime Reseach Lab@2022 Spring.
 
 ⚡ Interests in Edge Detection and Semantic tasks. 
 
