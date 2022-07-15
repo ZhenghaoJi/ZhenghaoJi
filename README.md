@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 👯 I’m a Full-time Reseacher @Large Model in Basemodel group of Sensetime Reseach Lab@2022-2023, Shanghai, China.
 
-~~⚡ Interests in Edge Detection and Semantic tasks. ~~
-
 ⚡ Interests in Object Detection Based on DETR and Backbone Designing Based on CNN&SelfAttn.
 
 📫 How to contact me: jizhenghao@sensetime.com
