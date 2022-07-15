@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ~~⚡ Interests in Edge Detection and Semantic tasks. ~~
 
-⚡ Interests in Object Detection Based on DETR and Backbone Designing Based on CNN&SA.
+⚡ Interests in Object Detection Based on DETR and Backbone Designing Based on CNN&SelfAttn.
 
 📫 How to contact me: jizhenghao@sensetime.com
 
