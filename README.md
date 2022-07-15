@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning computer vision, deep learning.
 
-👯 ~~I’m going to have an internship in Megvii Research Lab Shanghai this summer@2021Summer.~~
+👯 ~~I’m going to have an internship in Megvii Research Lab Shanghai this summer@2021Summer, Shanghai, China.~~
 
-👯 I’m happy to join Sensetime as Large Model R&D Engineer in basemodel group of Sensetime Reseach Lab@2022 Spring.
+👯 ~~I’m happy to join Sensetime as Large Model R&D Engineer in basemodel group of Sensetime Reseach Lab@2022 Spring, Shanghai, China.~~
 
-⚡ Interests in Edge Detection and Semantic tasks. 
+👯 I’m a Full-time Reseacher @Large Model in Basemodel group of Sensetime Reseach Lab@2022-2023, Shanghai, China.
 
+~~⚡ Interests in Edge Detection and Semantic tasks. ~~
+⚡ Interests in Object Detection Based on DETR and Backbone Designing Based on CNN&SA.
 
+📫 How to contact me: jizhenghao@sensetime.com
 📫 How to contact me: zhenghaoji828@gmail.com
+
